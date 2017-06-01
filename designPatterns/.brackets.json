@@ -1,0 +1,10 @@
+{
+    "options" : {
+        "devel": true,
+        "globals" : {
+            "console": true,
+            "node": true
+        },
+        "globalstrict": true
+    }
+}

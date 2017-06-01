@@ -1,0 +1,1 @@
+Based on javascript course 'Javascript practical design patterns' by Jonathan Mills
